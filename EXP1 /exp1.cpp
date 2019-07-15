@@ -17,7 +17,7 @@ int main(){
         if(str[i]=='\0')
             break;
         else{
-            if(str)
+            if(str[i])
 
         }
     }
